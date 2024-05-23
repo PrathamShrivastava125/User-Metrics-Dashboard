@@ -21,4 +21,4 @@ Visualization: A bar chart showing the average daily running kilometers for each
 Insight: Offers insights into vehicle usage patterns across regions, which can inform maintenance schedules and service planning.
 
 How to Access the Dashboard
-You can view the Tableau dashboard here.
+You can view the Tableau dashboard here: https://public.tableau.com/views/UserMetrics_17157901901510/AllUserStat?:language=en-GB&:sid=F025648332A144DBB80AB23959571025-0:0&:display_count=n&:origin=viz_share_link
